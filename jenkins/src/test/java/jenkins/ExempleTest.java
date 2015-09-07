@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class ExempleTest {
 	
-	private String test;
+	private String test2;
 
 	@Test
 	public void testFail() {
